@@ -1,0 +1,20 @@
+# Quartus files
+db/
+incremental_db/
+output_files/
+*.qws
+*.qpf
+*.qsf
+
+# Simulation
+work/
+*.wlf
+transcript
+vsim.wlf
+
+# Backup files
+*.bak
+
+# Generated
+synth_out.v
+simulation/
