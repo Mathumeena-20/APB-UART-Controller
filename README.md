@@ -1,11 +1,9 @@
-Got it 👍 — you want a **clean, professional, documentation-style README (like React ChatBotify Docs)** — not just a basic project README.
-
-Here is your **UART project README in that same structured style** 👇
-
----
-
 # 📡 APB-Based UART Controller Documentation
 
+![GitHub stars](https://img.shields.io/github/stars/Mathumeena-20/APB-UART-Controller?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mathumeena-20/APB-UART-Controller?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Verilog](https://img.shields.io/badge/Language-Verilog-orange)
 ---
 
 ## 📑 Table of Contents

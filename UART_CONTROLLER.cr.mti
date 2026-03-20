@@ -1,4 +1,11 @@
-D:/VLSI/UART_CONTROLLER/uart_parity.v {1 {vlog -work work -stats=none D:/VLSI/UART_CONTROLLER/uart_parity.v
+D:/VLSI/UART_CONTROLLER/apb_tb.v {1 {vlog -work work -stats=none D:/VLSI/UART_CONTROLLER/apb_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module apb_tb
+
+Top level modules:
+	apb_tb
+
+} {} {}} D:/VLSI/UART_CONTROLLER/uart_parity.v {1 {vlog -work work -stats=none D:/VLSI/UART_CONTROLLER/uart_parity.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module uart_parity
 
